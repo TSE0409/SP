@@ -1,0 +1,3 @@
+[submodule "src/tku_libs"]
+	path = src/tku_libs
+	url = https://github.com/TSE0409/tku_libs.git
